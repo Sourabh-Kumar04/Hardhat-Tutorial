@@ -1,4 +1,4 @@
-# hardhat-dapp
+# Hardhat-Tutorial 
 
 ## Pre-requisites:
 
